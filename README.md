@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### 📚 Education
+- MSc (ongoing) - ETH
+- BSc in Mechanical Engineering - EPFL
+
+#### 👨‍💻 Experience
+- R&D intern in Orthopaedics at Johnson & Johnson MedTech
+
+#### 📈 Data Science & Machine Learning projects
+- [Cheers to Change: Exploring Temporal and Spatial Dynamics in Beer Preferences](https://hadriensevel.github.io/vivalavada/)
+- [Cardiovascular Diseases (CVDs) prediction with machine learning](https://github.com/hadriensevel/cvd-prediction)
+
 <!--
 **hadriensevel/hadriensevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

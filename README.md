@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 📚 Education
-- MSc (ongoing) - ETH
+<!-- - MSc (ongoing) - ETH -->
 - BSc in Mechanical Engineering - EPFL
 
 #### 👨‍💻 Experience

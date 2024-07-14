@@ -2,7 +2,7 @@
 I'm an engineering and economics student passionate about MedTech and Data Science.
 
 #### 📚 Education
-- MSc student in Management, Technology, and Economics - ETH Zürich
+- MSc student in Management, Technology, and Economics - ETH Zurich
 - BSc in Mechanical Engineering - EPFL
 
 #### 👨‍💻 Experience
